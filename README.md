@@ -50,7 +50,10 @@ Appendix - Sample questions and files
 
 Questions
 What is the name of the company?
+
 Who is the CEO of the company?
+
 What is their vacation policy?
+
 What is the termination policy?
 
